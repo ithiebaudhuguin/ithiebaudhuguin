@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm discovering github, i have discovered that here it's writted in $Markdown$
+I need a little help to understand the fonctionalities of Github because i don't understand nothing 🤣
+I am french guys and i train my english because i am a big noob in this language
+If anyone read this thanks you so much
+
+<b>PS :</b> can you text me to give me help please
 <!--
 **ithiebaudhuguin/ithiebaudhuguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
